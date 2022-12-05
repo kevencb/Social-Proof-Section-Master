@@ -1,3 +1,3 @@
-# Cards-3Columns-FrontendMentor
+# SocialProof-SectionMaster-FrontendMentor
 
-### 🚀 [Cards-3Columns-FrontendMentor](https://kevencb.github.io/Cards-3Columns-FrontendMentor/)
+### 🚀 [SocialProof-SectionMaster-FrontendMentor](https://kevencb.github.io/Social-Proof-Section-Master/)
